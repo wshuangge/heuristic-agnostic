@@ -15,7 +15,7 @@ This work is an collaboration between University of Southern California (USC) an
 #### Multi-Objective Information Gathering
 Program implemeted for gathering multi-objective information in `./probing_multi-objective/`. To run, please navigate to each subdirectory and enter `python run.py train` or `python run.py inference` to run the implementation.
 
-<img src="https://user-images.githubusercontent.com/77814631/200959775-8168a96c-d95f-405f-a2d6-0448ac22e855.png" width=45% height=50%><img src="https://user-images.githubusercontent.com/77814631/200959771-4492b933-131f-4514-93ac-b72585ce8721.png" width=45% height=50%>
+<img src="https://user-images.githubusercontent.com/77814631/200962047-36db8b69-b996-4bca-abad-4f7ea6df6f2d.png" width=45% height=50%><img src="https://user-images.githubusercontent.com/77814631/200962048-a47aa4c1-f792-4f9b-9062-3a8761738396.png" width=45% height=50%>
 
 #### Desired Velocity Information Gathering
 Program implemeted implemeted for gathering desired velocity information in `./probing_velocity/`. To run, please navigate to each subdirectory and enter `python run.py train` or `python run.py inference` to run the implementation.
