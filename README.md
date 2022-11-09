@@ -13,13 +13,12 @@ This work is an collaboration between University of Southern California (USC) an
 ### Information Gathering
 
 #### Multi-Objective Information Gathering
-Program implemeted for gathering multi-objective information in `./probing_multi-objective/`. Among those four, three are active appraoches that adopt different objective metrics, and one is a passive learning approach.
-To run, please navigate to each subdirectory and enter `python run.py` to run the implementation.
+Program implemeted for gathering multi-objective information in `./probing_multi-objective/`. To run, please navigate to each subdirectory and enter `python run.py train` or `python run.py inference` to run the implementation.
+
+<img src="https://user-images.githubusercontent.com/77814631/200959775-8168a96c-d95f-405f-a2d6-0448ac22e855.png" width=45% height=50%><img src="https://user-images.githubusercontent.com/77814631/200959771-4492b933-131f-4514-93ac-b72585ce8721.png" width=45% height=50%>
 
 #### Desired Velocity Information Gathering
-Four benchmarks are implemeted for gathering desired velocity information in `./probing_velocity/`. Among those four, three are active appraoches that adopt different objective metrics, and one is a passive learning approach.
-To run, please navigate to each subdirectory and enter `python run.py` to run the implementation.
-
+Program implemeted implemeted for gathering desired velocity information in `./probing_velocity/`. To run, please navigate to each subdirectory and enter `python run.py train` or `python run.py inference` to run the implementation.
 
 <img src="https://user-images.githubusercontent.com/77814631/200959775-8168a96c-d95f-405f-a2d6-0448ac22e855.png" width=45% height=50%><img src="https://user-images.githubusercontent.com/77814631/200959771-4492b933-131f-4514-93ac-b72585ce8721.png" width=45% height=50%>
 
