@@ -1,7 +1,12 @@
 # heuristic-agnostic
 
 This repository is the accompanying code implementation for the author's Honors Thesis, ***Towards Heuristic Agnostic Active Multi-Objective Information Gathering in
-Human-Robot Interaction: A Deep Q-Learning Approach***, which is an extention of the paper ***Active Probing and Influencing Human Behaviors Via Autonomous Agents*** submitted to ***2023 IEEE International Conference on Robotics and Automation (ICRA)***. This work is an collaboration between USC and CMU. For all correspondence, please contact **Shuangge Wang** (larrywan@usc.edu).
+Human-Robot Interaction: A Deep Q-Learning Approach***.
+
+This thesis is an extention of the paper, ***Active Probing and Influencing Human Behaviors Via Autonomous Agents***, submitted to ***2023 IEEE International Conference on Robotics and Automation (ICRA)***.
+
+This work is an collaboration between University of Southern California (USC) and Carnegie Mellon University (CMU). For all correspondence, please contact **Shuangge Wang** (larrywan@usc.edu).
+
 ![p1](https://user-images.githubusercontent.com/77814631/193433536-dbaed09b-8bde-471b-834f-320c92466b9c.png)
 
 ## Workflow
