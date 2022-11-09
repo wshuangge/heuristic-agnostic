@@ -10,8 +10,8 @@ Human-Robot Interaction: A Deep Q-Learning Approach***, which is an extention of
 Four benchmarks are implemeted for probing velocity in `./probing_velocity/`. Among those four, three are active appraoches that adopt different objective metrics, and one is a passive learning approach.
 To run, please navigate to each subdirectory and enter `python run.py` to run the implementation.
 
-#### Probing Headway
-Four benchmarks are implemeted for probing headway in `./probing_headway/`. Among those four, three are active appraoches that adopt different objective metrics, and one is a passive learning approach.
+#### Probing probing_multi-objective
+Four benchmarks are implemeted for probing headway in `./probing_multi-objective/`. Among those four, three are active appraoches that adopt different objective metrics, and one is a passive learning approach.
 To run, please navigate to each subdirectory and enter `python run.py` to run the implementation.
 
 ### Influence
@@ -43,5 +43,5 @@ scipy==1.8.1
 ## Contacts
 **Shuangge Wang** (University of Southern California), larrywan@usc.edu  
 **Yiwei Lyu** (Carnegie Mellon University), yiweilyu@andrew.cmu.edu  
-**John M. Dolan** (Carnegie Mellon University), jdolan@andrew.cmu.edu
+**John M. Dolan** (Carnegie Mellon University), jdolan@andrew.cmu.edu  
 **Bhaskar Krishnamachari** (University of Southern California), bkrishna@usc.edu
