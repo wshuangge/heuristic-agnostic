@@ -19,7 +19,8 @@ To run, please navigate to each subdirectory and enter `python run.py` to run th
 #### Desired Velocity Information Gathering
 Four benchmarks are implemeted for gathering desired velocity information in `./probing_velocity/`. Among those four, three are active appraoches that adopt different objective metrics, and one is a passive learning approach.
 To run, please navigate to each subdirectory and enter `python run.py` to run the implementation.
-![Figure_2](https://user-images.githubusercontent.com/77814631/200958964-194c4b18-8c7f-4c55-84b5-2ed15971c3d7.png)![Figure_1](https://user-images.githubusercontent.com/77814631/200958967-8f677860-7771-4c32-9334-ac0cca2bf34e.png)
+
+![Figure_2](https://user-images.githubusercontent.com/77814631/200958964-194c4b18-8c7f-4c55-84b5-2ed15971c3d7.png) ![Figure_1](https://user-images.githubusercontent.com/77814631/200958967-8f677860-7771-4c32-9334-ac0cca2bf34e.png)
 
 
 ### Influence
